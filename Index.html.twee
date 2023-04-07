@@ -1,0 +1,74 @@
+:: StoryTitle
+Les aventures de July
+
+
+:: StoryData
+{
+  "ifid": "C7B75311-D950-47AD-98C2-EB2AA7A0D0DF",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "Les aventures de Julie ! ",
+  "zoom": 1
+}
+
+
+:: \ Fin ! {"position":"687.5,450","size":"100,100"}
+
+
+
+:: \ Hôtel\  {"position":"562.5,450","size":"100,100"}
+
+
+
+:: \ Magasins {"position":"437.5,450","size":"100,100"}
+
+
+
+:: \ Police\  {"position":"312.5,450","size":"100,100"}
+
+
+
+:: Fin {"position":"687.5,325","size":"100,100"}
+[[ Fin !]]
+
+
+:: Hôtel {"position":"562.5,325","size":"100,100"}
+[[ Hôtel ]]
+
+
+:: Les aventures de Julie !\  {"position":"500,100","size":"100,100"}
+Titre : Les aventures de Marie
+
+Histoire : Julie est une jeune étudiante qui voyage en France dans le cadre d'un séjour linguistique pour améliorer et développer  ses compétences en langue française et en communication. Elle arrive à Paris, mais rapidement, elle réalise qu'elle a perdu son sac à main mais elle ne sait pas comment faire. Elle doit trouver un moyen de retrouver son sac et de continuer son voyage. Aidez Marie à traverser Paris pour retrouver son sac à main !
+
+[[Aller à la police->Police]]
+
+[[Chercher dans les magasins->Magasins]]
+
+
+Police : Julie se rend au commissariat de police et explique la situation aux policiers. Ils lui demandent de remplir un rapport de police et lui promettent de l'aider à retrouver son sac. Marie attend patiemment pendant plusieurs heures, mais finalement, les policiers ne trouvent aucune trace de son sac. Que fait-elle maintenant ?
+
+[[Continuer à chercher->Magasins]]
+
+[[Retourner à l'hôtel->Hôtel]]
+
+Magasins : Julie parcourt les rues de Paris à la recherche de ses affaires. Elle se rend dans plusieurs magasins et boutiques, mais elle ne trouve rien. Finalement, elle arrive dans un petit marché très connu : le marché  aux puces où elle trouve son sac à main chez un vendeur ambulant. Que fait-elle maintenant ?
+
+[[Acheter son sac->Fin]]
+
+[[Appeler la police->Police]]
+
+Hôtel : Julie retourne à son hôtel, déçue et frustrée. Elle s'assoit dans le hall de l'hôtel et remarque une femme assise à côté d'elle. Elles discutent et la femme se révèle être une ancienne employée de l'hôtel. Elle se souvient avoir vu un sac à main dans la salle de stockage de l'hôtel. Optimiste, Julie écoute attentivement la dame et  suit les différentes descritions que la femme a présenté et retrouve son sac. Que fait-elle maintenant ?
+
+[[Continuer son voyage->Fin]]
+
+[[Remercier la femme->Hôtel]]
+Fin : Julie retrouve la joie et le bonheur et se sent chanceuse d'avoir retrouvé son sac à main. Elle peut maintenant continuer son voyage à travers la France. Le jeu est terminé.
+
+
+:: Magasins {"position":"437.5,325","size":"100,100"}
+[[ Magasins]]
+
+
+:: Police {"position":"312.5,325","size":"100,100"}
+[[ Police ]]
